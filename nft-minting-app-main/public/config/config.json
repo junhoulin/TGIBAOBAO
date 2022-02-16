@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD6ce173e1FCfca2d50cFD660a82BD121787af6Be",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd6ce173e1fcfca2d50cfd660a82bd121787af6be",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "TAIGIBAOBAO",
+  "SYMBOL": "TGNFT",
+  "MAX_SUPPLY": 550,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/junhoulin123",
+  "SHOW_BACKGROUND": true
+}
